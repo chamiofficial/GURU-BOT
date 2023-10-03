@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94764497078', 'me', true],
-  ['6281255369012', 'Ash', true], 
+  ['94775512050', 'OWNER', true],
+  ['94775512050', '⚖ MR.CHAMIYA ⚖', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['917605902011','32460248586'] 
-global.prems = ['917605902011', '32460248586', '919398758484']
+global.mods = ['94775512050',''] 
+global.prems = ['']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = '⚙️ CHAMI-MD ⚙️'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
+global.packname = 'CHAMI┃MD' 
+global.author = '⚖ MR.CHAMIYA ⚖' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
